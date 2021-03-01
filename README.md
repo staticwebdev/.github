@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**staticwebdev/staticwebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We're here to help you get started with [Azure Static Web Apps](https://azure.microsoft.com/services/app-service/static/?WT.mc_id=javascript-0000-cxall), the easiest way to get a static web application deployed to Azure.
 
-Here are some ideas to get you started:
+### Project Templates
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Want to get started building a site? Check out the starter repo templates for your favourite frameworks, [React](https://github.com/staticwebdev/react-basic), [Angular](https://github.com/staticwebdev/angular-basic), [Vue](https://github.com/staticwebdev/vue-basic), [Blazor](https://github.com/staticwebdev/blazor-starter) and [more](https://github.com/staticwebdev?tab=repositories).
+
+### Need inspiration
+
+Are you keen to see what others have built with Static Web Apps, or find out more tools that you can use to streamline your Static Web App projects? Well there's an [awesome list](https://github.com/sinedied/awesome-azure-static-web-apps) that will get you started.
+
+### Want to get in contact
+
+You can reach us on on Twitter at [AzureStaticApps](https://twitter.com/AzureStaticApps) or [raise an issue on GitHub](https://github.com/Azure/static-web-apps/issues).
